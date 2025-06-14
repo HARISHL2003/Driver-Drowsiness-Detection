@@ -16,4 +16,51 @@ Our solution uses **deep learning (transfer learning with MobileNet)** and **Ope
 - ✅ **Proteus** + **VSPE** integration for virtual testing of embedded prototype
 - ✅ Comparison with other models (SVM, Random Forest, KNN)
 
-##   Working on future development
+
+## 🛠️ Tech Stack
+
+- Python
+- OpenCV
+- TensorFlow / Keras (MobileNet)
+- Proteus (for hardware simulation)
+- VSPE (Virtual Serial Port Emulator)
+
+## 📈 Results
+
+| Model          | Accuracy | Reaction Time    |
+|----------------|----------|------------------|
+| TransferLearning (MobileNet) | 1.00     | 0.05–0.10 sec     |
+| SVM            | 0.964    | ~1 sec           |
+| Random Forest  | 0.98     | ~385 ms          |
+| KNN            | 0.971    | ~2 ms            |
+
+## 👨‍💻 Contributors
+
+- **Harish L** (Team Lead) – Data Modeling, Programming, Virtual Simulation
+- Dhananchezhiyan S
+- Nitish K
+- Tamilarasan V
+- Akshaay
+- Apoorv Pradhan
+- Nikhil Kumar
+- Tharun PMR
+
+## 📑 Report
+
+You can access the **full technical report** here: [LINK_TO_GOOGLE_DRIVE_OR_GITHUB_REPORT]
+
+## 📬 Contact
+
+For questions or collaboration:  
+📧 [Your Email]  
+📱 [LinkedIn profile link]
+
+## ⭐ Acknowledgements
+
+- Reference materials from **YouTube tutorials** and **ChatGPT** were used to guide certain implementation steps and troubleshoot issues.
+- ## working for future development.
+⚠️ Note on Demonstration Video:
+This project was successfully demonstrated live in 2023 during the official EPICS project review at VIT Bhopal in front of faculty supervisors and evaluators.
+
+At that time, we prioritized the live demonstration over recording, so currently, we do not have a saved video of the working prototype.
+
