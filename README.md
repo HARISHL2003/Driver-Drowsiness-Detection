@@ -16,3 +16,4 @@ Our solution uses **deep learning (transfer learning with MobileNet)** and **Ope
 - ✅ **Proteus** + **VSPE** integration for virtual testing of embedded prototype
 - ✅ Comparison with other models (SVM, Random Forest, KNN)
 
+##   Working on future development
